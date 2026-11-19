@@ -1,0 +1,204 @@
+{
+  "ext": {
+    "shopImprovePackStatus": "expired"
+  },
+  "items": [
+    {
+      "commonData": {
+        "blockType": "NONE",
+        "conformRisk": "NONE",
+        "itemId": 899790491470,
+        "orderDetailUrl": "fleamarket://order_detail?id=4346656956157241610",
+        "orderId": 4346656956157242000,
+        "orderIdStr": "4346656956157241610",
+        "peerUserId": 826241016,
+        "seller": true,
+        "tradeStatusEnum": "trade_success",
+        "utArgs": {
+          "globalBizCode": null,
+          "xGlobalBizCode": null,
+          "_F_idle_pd": "c2c",
+          "idleBizCode": "6"
+        }
+      },
+      "content": {
+        "data": {
+          "detailInfo": {
+            "auctionPic": "http://img.alicdn.com/bao/uploaded/i1/O1CN01TNvDiO1ZEhnYosblP_!!4611686018427385435-0-fleamarket.jpg",
+            "auctionTitle": "国内出行旅游意外保险短期自由行自驾团建学校活动等一日一天意外",
+            "fromWxMiniProgram": false,
+            "orderTags": [
+              {
+                "borderColor": 4294943103,
+                "text": "描述不符全额退",
+                "textColor": 4294919168
+              }
+            ],
+            "skuInfo": "方案:10W;天数:1天"
+          },
+          "priceInfo": {
+            "auctionPriceDesc": "实收款",
+            "buyAmount": 50,
+            "price": "100.00"
+          }
+        },
+        "render": "common"
+      },
+      "head": {
+        "data": {
+          "createTime": "2025-05-19 22:28:15",
+          "statusViewMsg": "交易成功",
+          "userInfo": {
+            "jumpUrl": "fleamarket://personalPage?userId=826241016",
+            "redFlowerIcon": false,
+            "userIcon": "http://gtms03.alicdn.com/tps/i3/TB1LFGeKVXXXXbCaXXX07tlTXXX-200-200.png",
+            "userId": "826241016",
+            "userNick": "齐***公"
+          }
+        },
+        "render": "common"
+      },
+      "tail": {
+        "data": {
+          "btnList": [
+            {
+              "buttonDisable": false,
+              "clickEvent": {
+                "data": {
+                  "url": "fleamarket://rate_detail?flutter=true&tradeId=4346656956157241610&ratedUid=826241016&peerUserId=2214811203163&bizCode=ORDER"
+                },
+                "type": "openPage",
+                "utParam": {
+                  "arg1": "ViewRate"
+                }
+              },
+              "expanded": true,
+              "ext": {},
+              "name": "查看评价",
+              "style": "yellow",
+              "tradeAction": "VIEW_RATE"
+            },
+            {
+              "buttonDisable": false,
+              "clickEvent": {
+                "data": {
+                  "url": "alipays://platformapi/startapp?appId=20000003&actionType=toBillDetails&tradeNO=2025051922001143031448283623"
+                },
+                "type": "openPage",
+                "utParam": {
+                  "arg1": "CheckMoney"
+                }
+              },
+              "expanded": false,
+              "ext": {},
+              "name": "查看钱款",
+              "style": "grey",
+              "tradeAction": "VIEW_CASH"
+            },
+            {
+              "buttonDisable": false,
+              "clickEvent": {
+                "data": {
+                  "url": "fleamarket://item?isSnapshot=true&orderId=4346656956157241610&id=899790491470"
+                },
+                "type": "openPage",
+                "utParam": {
+                  "arg1": ""
+                }
+              },
+              "expanded": false,
+              "ext": {},
+              "name": "宝贝快照",
+              "style": "grey",
+              "tradeAction": "ITEM_DETAIL"
+            },
+            {
+              "buttonDisable": false,
+              "clickEvent": {
+                "data": {
+                  "code": "DELETE_ORDER"
+                },
+                "type": "actionCode",
+                "utParam": {
+                  "arg1": "DeleteOrder"
+                }
+              },
+              "expanded": false,
+              "ext": {},
+              "name": "删除订单",
+              "style": "grey",
+              "tradeAction": "DELETE_ORDER"
+            },
+            {
+              "clickEvent": {
+                "data": {
+                  "url": "fleamarket://personalPage?openLabelPublish=sellerOrderList&userid=826241016"
+                },
+                "type": "openPage",
+                "utParam": {
+                  "arg1": "addUserImpression"
+                }
+              },
+              "expanded": false,
+              "name": "添加印象",
+              "tradeAction": "ADD_USER_IMPRESSION"
+            },
+            {
+              "clickEvent": {
+                "data": {
+                  "code": "CHAT"
+                },
+                "type": "actionCode",
+                "utParam": {
+                  "arg1": "chat"
+                }
+              },
+              "expanded": true,
+              "name": "联系买家",
+              "tradeAction": "CONTACT_SELLER"
+            },
+            {
+              "buttonDisable": false,
+              "clickEvent": {
+                "data": {
+                  "url": "https://h5.m.goofish.com/wow/moyu/moyu-project/fish-shop-seller-tools/pages/notesFloating?kun=true&opaque=false&orderId=4346656956157241610"
+                },
+                "type": "openPage",
+                "utParam": {
+                  "arg1": "addMemo"
+                }
+              },
+              "expanded": false,
+              "name": "添加备注",
+              "tradeAction": "ADD_MEMO"
+            }
+          ]
+        },
+        "render": "common"
+      }
+    }
+  ],
+  "lastEndRow": 0,
+  "nextPage": true,
+  "resultExt": {
+    "orderSearchConditionList": [
+      {
+        "hintText": "名称/订单编号/快递单号等",
+        "name": "全部",
+        "type": "all"
+      },
+      {
+        "hintText": "收货人姓名",
+        "name": "收货人姓名",
+        "type": "receiverName"
+      },
+      {
+        "hintText": "收货人电话",
+        "name": "收货人电话",
+        "type": "receiverPhone"
+      }
+    ],
+    "tipNoticeList": []
+  },
+  "totalCount": 0
+}

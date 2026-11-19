@@ -1,21 +1,17 @@
-# Runtime data and credentials
-/data/
+# Local secrets and machine-specific config
 /config.json
-/goofish-cookie*
 .env
 .env.*
 !.env.example
-*.cookie
-*.cookie.*
-*.db
-*.db-*
-*.sqlite*
-*.log
-*.pid
 *.pem
 *.key
 
-# Local investigations, real customer cases, and operational notes
+# Browser profile, caches, and transient locks
+/data/chrome/
+*.pid
+*.db-shm
+
+# Local investigation scratch, real customer cases, and ad-hoc notes
 /_*
 /docs/
 /README.md

@@ -1,0 +1,4 @@
+[api] http://127.0.0.1:5175
+[api] account=2214811203163 cookie=OK
+[api] db=E:\逆向测试\xianyu-auto\data\xianyu-2214811203163.db
+[api] dist=E:\逆向测试\xianyu-auto\web\dist

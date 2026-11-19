@@ -1,0 +1,6 @@
+{
+ "api": "mtop.taobao.idlemessage.pc.login.token",
+ "url": "https://h5api.m.goofish.com/h5/mtop.taobao.idlemessage.pc.login.token/1.0/?jsv=2.7.2&appKey=34839810&t=1793882958386&sign=c5f0a3ec5e5bc2617fc324f17e42e348&v=1.0&type=originaljson&accountSite=xianyu&dataType=json&timeout=20000&api=mtop.taobao.idlemessage.pc.login.token&sessionOption=AutoLoginOnly&spm_cnt=a21ybx.im.0.0",
+ "post": "data=%7B%22appKey%22%3A%22444e9908a51d1cb236a27862abc769c9%22%2C%22deviceId%22%3A%22E366A1B5-D9A5-44DA-BFCC-CC293B9C33B4-2214811203163%22%7D",
+ "body": "{\"api\":\"mtop.taobao.idlemessage.pc.login.token\",\"data\":{\"accessToken\":\"oauth_k1:2XPEnT2htriaUfAWBBaonvGnWkhOjYivVhD2L0nHEfWxkG8cNBVe7S0ypUT1v2I3rUfwQkXirpG9GHdXmZKG7XceJ+ehuSMU2H4oWE5BYl8=\",\"accessTokenExpiredTime\":\"86400000\",\"refreshToken\":\"oauth_k1:toJ+TgecrBusv5e4X51l3dTvlwt+ystnsR8qZ5Skgm/ohhBkzyH1d1nw2RpyGdT2QGjpKilb5w4wlXQZsuMmXw==\"},\"ret\":[\"SUCCESS::调用成功\"],\"v\":\"1.0\"}"
+}

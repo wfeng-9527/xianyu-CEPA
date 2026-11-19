@@ -1,0 +1,6 @@
+{
+  "ok": false,
+  "api": "mtop.taobao.idle.pc.detail",
+  "error": "FAIL_SYS_USER_VALIDATE",
+  "kind": "RISK"
+}

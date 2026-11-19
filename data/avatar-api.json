@@ -1,0 +1,86 @@
+[
+ {
+  "url": "https://h5api.m.goofish.com/h5/mtop.taobao.idlemessage.pc.loginuser.get/1.0/?jsv=2.7.2&appKey=34839810&t=1793915150139&sign=b556583bd95bfcd53b7d13b21b37e294&v=1.0&type=originaljson&accountSite=xianyu&dataType=json&timeout=20000&api=mtop.taobao.idlemessage.pc.loginuser.get&sessionOption=AutoLoginOnly&spm_cnt=a21ybx.im.0.0",
+  "post": "data=%7B%7D"
+ },
+ {
+  "url": "https://h5api.m.goofish.com/h5/mtop.taobao.idlemessage.pc.loginuser.get/1.0/?jsv=2.7.2&appKey=34839810&t=1793915150206&sign=f2a3a32b34cd90ca156293525bda809e&v=1.0&type=originaljson&accountSite=xianyu&dataType=json&timeout=20000&api=mtop.taobao.idlemessage.pc.loginuser.get&sessionOption=AutoLoginOnly&spm_cnt=a21ybx.im.0.0",
+  "post": "data=%7B%7D"
+ },
+ {
+  "url": "https://h5api.m.goofish.com/h5/mtop.taobao.idlemessage.pc.loginuser.get/1.0/?jsv=2.7.2&appKey=34839810&t=1793915150207&sign=a1c779bea85a1b6368694a216e390910&v=1.0&type=originaljson&accountSite=xianyu&dataType=json&timeout=20000&api=mtop.taobao.idlemessage.pc.loginuser.get&sessionOption=AutoLoginOnly&spm_cnt=a21ybx.im.0.0",
+  "post": "data=%7B%7D"
+ },
+ {
+  "url": "https://h5api.m.goofish.com/h5/mtop.gaia.nodejs.gaia.idle.data.gw.v2.index.get/1.0/?jsv=2.7.2&appKey=34839810&t=1793915150207&sign=86f17140212c64c57ec93c79f3f02df0&v=1.0&type=originaljson&accountSite=xianyu&dataType=json&timeout=20000&api=mtop.gaia.nodejs.gaia.idle.data.gw.v2.index.get&sessionOption=AutoLoginOnly&spm_cnt=a21ybx.im.0.0",
+  "post": "data=%7B%22piUrl%22%3A%22https%3A%2F%2Fh5.m.goofish.com%2Fwow%2Fmoyu%2Fmoyu-project%2Fxy-site%2Fpages%2FsideBar%22%7D"
+ },
+ {
+  "url": "https://h5api.m.goofish.com/h5/mtop.gaia.nodejs.gaia.idle.data.gw.v2.index.get/1.0/?jsv=2.7.2&appKey=34839810&t=1793915150207&sign=5970aca7cd6c44188e3369839e0d49f3&v=1.0&type=originaljson&accountSite=xianyu&dataType=json&timeout=20000&api=mtop.gaia.nodejs.gaia.idle.data.gw.v2.index.get&sessionOption=AutoLoginOnly&spm_cnt=a21ybx.im.0.0",
+  "post": "data=%7B%22piUrl%22%3A%22https%3A%2F%2Fh5.m.goofish.com%2Fwow%2Fmoyu%2Fmoyu-project%2Fxy-site%2Fpages%2Fcommon%22%7D"
+ },
+ {
+  "url": "https://h5api.m.goofish.com/h5/mtop.idle.web.user.page.nav/1.0/?jsv=2.7.2&appKey=34839810&t=1793915150207&sign=a1c779bea85a1b6368694a216e390910&v=1.0&type=originaljson&accountSite=xianyu&dataType=json&timeout=20000&api=mtop.idle.web.user.page.nav&sessionOption=AutoLoginOnly&spm_cnt=a21ybx.im.0.0",
+  "post": "data=%7B%7D"
+ },
+ {
+  "url": "https://h5api.m.goofish.com/h5/mtop.gaia.nodejs.gaia.idle.data.gw.v2.index.get/1.0/?jsv=2.7.2&appKey=34839810&t=1793915150207&sign=fa15922c1e78afc194b1509c24bad51d&v=1.0&type=originaljson&accountSite=xianyu&dataType=json&timeout=20000&api=mtop.gaia.nodejs.gaia.idle.data.gw.v2.index.get&sessionOption=AutoLoginOnly&spm_cnt=a21ybx.im.0.0",
+  "post": "data=%7B%22piUrl%22%3A%22https%3A%2F%2Fh5.m.goofish.com%2Fwow%2Fmoyu%2Fmoyu-project%2Fxy-site%2Fpages%2Fim-group-white-list%22%7D"
+ },
+ {
+  "url": "https://h5api.m.goofish.com/h5/mtop.taobao.idlemessage.pc.redpoint.query/1.0/?jsv=2.7.2&appKey=34839810&t=1793915150317&sign=b1dc2962d67341611c9ea3743c191072&v=1.0&type=originaljson&accountSite=xianyu&dataType=json&timeout=20000&api=mtop.taobao.idlemessage.pc.redpoint.query&sessionOption=AutoLoginOnly&spm_cnt=a21ybx.im.0.0",
+  "post": "data=%7B%22sessionTypes%22%3A%221%2C19%2C15%2C32%2C3%2C44%2C51%2C52%2C24%22%2C%22fetch%22%3A50%7D"
+ },
+ {
+  "url": "https://h5api.m.goofish.com/h5/mtop.gaia.nodejs.gaia.idle.data.gw.v2.index.get/1.0/?jsv=2.7.2&appKey=34839810&t=1793915150372&sign=a2955f2457d02d7b8b02559956c54f92&v=1.0&type=originaljson&accountSite=xianyu&dataType=json&timeout=20000&api=mtop.gaia.nodejs.gaia.idle.data.gw.v2.index.get&sessionOption=AutoLoginOnly&spm_cnt=a21ybx.im.0.0",
+  "post": "data=%7B%22piUrl%22%3A%22https%3A%2F%2Fh5.m.goofish.com%2Fwow%2Fmoyu%2Fmoyu-project%2Fxy-site%2Fpages%2Fim-sls-log-whitelist%22%7D"
+ },
+ {
+  "url": "https://h5api.m.goofish.com/h5/mtop.taobao.idlemessage.pc.login.token/1.0/?jsv=2.7.2&appKey=34839810&t=1793915150671&sign=c246d44fe050203404143bed6182f992&v=1.0&type=originaljson&accountSite=xianyu&dataType=json&timeout=20000&api=mtop.taobao.idlemessage.pc.login.token&sessionOption=AutoLoginOnly&spm_cnt=a21ybx.im.0.0",
+  "post": "data=%7B%22appKey%22%3A%22444e9908a51d1cb236a27862abc769c9%22%2C%22deviceId%22%3A%22E3715DD8-9856-4EF6-8905-B5300858D53B-2214811203163%22%7D"
+ },
+ {
+  "url": "https://h5api.m.goofish.com/h5/mtop.taobao.idlemessage.face.emoji.load/1.0/?jsv=2.7.2&appKey=34839810&t=1793915150869&sign=83900ede93410eb8bdeda907d94e0b26&v=1.0&type=originaljson&accountSite=xianyu&dataType=json&timeout=20000&api=mtop.taobao.idlemessage.face.emoji.load&sessionOption=AutoLoginOnly&spm_cnt=a21ybx.im.0.0",
+  "post": "data=%7B%7D"
+ },
+ {
+  "url": "https://h5api.m.goofish.com/h5/mtop.taobao.idlemessage.pc.accs.token/1.0/?jsv=2.7.2&appKey=34839810&t=1793915150870&sign=5df2eb226918c862fc664af8620bc04c&v=1.0&type=originaljson&accountSite=xianyu&dataType=json&timeout=20000&api=mtop.taobao.idlemessage.pc.accs.token&sessionOption=AutoLoginOnly&spm_cnt=a21ybx.im.0.0",
+  "post": "data=%7B%7D"
+ },
+ {
+  "url": "https://h5api.m.goofish.com/h5/mtop.taobao.idlemessage.pc.session.sync/3.0/?jsv=2.7.2&appKey=34839810&t=1793915151175&sign=562097923584d681ef2528baa1414693&v=3.0&type=originaljson&accountSite=xianyu&dataType=json&timeout=20000&api=mtop.taobao.idlemessage.pc.session.sync&sessionOption=AutoLoginOnly&spm_cnt=a21ybx.im.0.0",
+  "post": "data=%7B%22sessionTypes%22%3A%22%5B3%5D%22%2C%22fetchNum%22%3A30%7D"
+ },
+ {
+  "url": "https://h5api.m.goofish.com/h5/mtop.taobao.idlemessage.pc.user.query/4.0/?jsv=2.7.2&appKey=34839810&t=1793915151190&sign=cf07a4dc5a43e55a8b809bba84a0ecde&v=4.0&type=originaljson&accountSite=xianyu&dataType=json&timeout=20000&api=mtop.taobao.idlemessage.pc.user.query&sessionOption=AutoLoginOnly&spm_cnt=a21ybx.im.0.0",
+  "post": "data=%7B%22type%22%3A0%2C%22sessionType%22%3A1%2C%22sessionId%22%3A%2254577822625%22%2C%22isOwner%22%3Afalse%7D"
+ },
+ {
+  "url": "https://h5api.m.goofish.com/h5/mtop.taobao.idlemessage.pc.user.query/4.0/?jsv=2.7.2&appKey=34839810&t=1793915151190&sign=0fc126a269a49d1077dc148471e799b0&v=4.0&type=originaljson&accountSite=xianyu&dataType=json&timeout=20000&api=mtop.taobao.idlemessage.pc.user.query&sessionOption=AutoLoginOnly&spm_cnt=a21ybx.im.0.0",
+  "post": "data=%7B%22type%22%3A0%2C%22sessionType%22%3A1%2C%22sessionId%22%3A%2254338944966%22%2C%22isOwner%22%3Afalse%7D"
+ },
+ {
+  "url": "https://h5api.m.goofish.com/h5/mtop.taobao.idlemessage.pc.user.query/4.0/?jsv=2.7.2&appKey=34839810&t=1793915151190&sign=02f98e885ddc399f1b1d5e90d63368e5&v=4.0&type=originaljson&accountSite=xianyu&dataType=json&timeout=20000&api=mtop.taobao.idlemessage.pc.user.query&sessionOption=AutoLoginOnly&spm_cnt=a21ybx.im.0.0",
+  "post": "data=%7B%22type%22%3A0%2C%22sessionType%22%3A1%2C%22sessionId%22%3A%2268464588112%22%2C%22isOwner%22%3Afalse%7D"
+ },
+ {
+  "url": "https://h5api.m.goofish.com/h5/mtop.taobao.idlemessage.pc.user.query/4.0/?jsv=2.7.2&appKey=34839810&t=1793915151190&sign=3fe5ba40db84ff79d32feacf6b21bc24&v=4.0&type=originaljson&accountSite=xianyu&dataType=json&timeout=20000&api=mtop.taobao.idlemessage.pc.user.query&sessionOption=AutoLoginOnly&spm_cnt=a21ybx.im.0.0",
+  "post": "data=%7B%22type%22%3A0%2C%22sessionType%22%3A1%2C%22sessionId%22%3A%2268339878707%22%2C%22isOwner%22%3Afalse%7D"
+ },
+ {
+  "url": "https://h5api.m.goofish.com/h5/mtop.taobao.idlemessage.pc.user.query/4.0/?jsv=2.7.2&appKey=34839810&t=1793915151190&sign=d2e2c54ca6f610601aa1663d7b69c7ad&v=4.0&type=originaljson&accountSite=xianyu&dataType=json&timeout=20000&api=mtop.taobao.idlemessage.pc.user.query&sessionOption=AutoLoginOnly&spm_cnt=a21ybx.im.0.0",
+  "post": "data=%7B%22type%22%3A0%2C%22sessionType%22%3A1%2C%22sessionId%22%3A%2268328427138%22%2C%22isOwner%22%3Afalse%7D"
+ },
+ {
+  "url": "https://h5api.m.goofish.com/h5/mtop.taobao.idlemessage.pc.user.query/4.0/?jsv=2.7.2&appKey=34839810&t=1793915151191&sign=2f88a88d06e30af4378ba0924d8bf7a8&v=4.0&type=originaljson&accountSite=xianyu&dataType=json&timeout=20000&api=mtop.taobao.idlemessage.pc.user.query&sessionOption=AutoLoginOnly&spm_cnt=a21ybx.im.0.0",
+  "post": "data=%7B%22type%22%3A0%2C%22sessionType%22%3A1%2C%22sessionId%22%3A%2268160399140%22%2C%22isOwner%22%3Afalse%7D"
+ },
+ {
+  "url": "https://h5api.m.goofish.com/h5/mtop.taobao.idlemessage.pc.user.query/4.0/?jsv=2.7.2&appKey=34839810&t=1793915151191&sign=e52978cdfadd2f3fd315dc20415ff37c&v=4.0&type=originaljson&accountSite=xianyu&dataType=json&timeout=20000&api=mtop.taobao.idlemessage.pc.user.query&sessionOption=AutoLoginOnly&spm_cnt=a21ybx.im.0.0",
+  "post": "data=%7B%22type%22%3A0%2C%22sessionType%22%3A1%2C%22sessionId%22%3A%2268291947644%22%2C%22isOwner%22%3Afalse%7D"
+ },
+ {
+  "url": "https://h5api.m.goofish.com/h5/mtop.taobao.idlemessage.pc.user.query/4.0/?jsv=2.7.2&appKey=34839810&t=1793915151571&sign=dcc97ece6936064c087754f99e6fcf5a&v=4.0&type=originaljson&accountSite=xianyu&dataType=json&timeout=20000&api=mtop.taobao.idlemessage.pc.user.query&sessionOption=AutoLoginOnly&spm_cnt=a21ybx.im.0.0",
+  "post": "data=%7B%22type%22%3A10%2C%22sessionType%22%3A3%2C%22sessionId%22%3A%2225846266307%22%2C%22isOwner%22%3Afalse%7D"
+ }
+]

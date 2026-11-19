@@ -1,0 +1,14 @@
+{
+ "start": "2026-11-08 08:01:00",
+ "end": "2026-11-11 08:00:59",
+ "resp": {
+  "payChannelIFname": null,
+  "payType": "1",
+  "orderNo": "261180406603750",
+  "premiumPayChannel": "1",
+  "errorMessage": "OK",
+  "errorCode": "0",
+  "postSeqId": "0",
+  "payFlag": "1"
+ }
+}

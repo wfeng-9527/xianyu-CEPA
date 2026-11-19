@@ -1,0 +1,10 @@
+{
+  "enabled": true,
+  "hour": 3,
+  "detail": true,
+  "lastRunDay": "",
+  "lastRunAt": 0,
+  "lastResult": "",
+  "lastOk": 0,
+  "lastFail": 0
+}

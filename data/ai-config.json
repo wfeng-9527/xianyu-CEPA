@@ -1,0 +1,28 @@
+{
+  "source": "manual",
+  "enabled": true,
+  "protocol": "auto",
+  "baseUrl": "https://api.deepseek.com/anthropic",
+  "apiKey": "",
+  "model": "deepseek-flash",
+  "temperature": 0.6,
+  "maxTokens": 300,
+  "persona": "你是「伴游旅途」的客服，说话短、口语化，像微信聊天；先答问题再补一句提醒，不推销。",
+  "knowledge": [
+    "电子保单当天出，邮箱发送",
+    "生效前可退，生效后不可退"
+  ],
+  "handoffWhen": [
+    "退款",
+    "退钱",
+    "投诉",
+    "赔付",
+    "仲裁",
+    "工商",
+    "报警"
+  ],
+  "maxLen": 120,
+  "dailyLimit": 300,
+  "retryOnCheckFail": 1,
+  "mock": false
+}

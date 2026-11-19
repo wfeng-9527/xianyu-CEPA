@@ -1,0 +1,13 @@
+{
+  "host": "smtp.qq.com",
+  "port": 465,
+  "secure": true,
+  "user": "feng249530@foxmail.com",
+  "pass": "jxgssqccpygkeacd",
+  "fromName": "伴游旅途",
+  "fromAddr": "feng249530@foxmail.com",
+  "replyTo": "",
+  "dailyLimit": 200,
+  "sentToday": 0,
+  "sentDate": ""
+}

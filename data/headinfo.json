@@ -1,0 +1,40 @@
+{
+  "data": {
+    "commonData": {
+      "itemId": 899790491470,
+      "itemPreInfo": "{\"itemId\":\"899790491470\",\"imageInfos\":\"[{\\\"extraInfo\\\":{\\\"raw\\\":\\\"false\\\",\\\"isT\\\":\\\"false\\\",\\\"isH\\\":\\\"false\\\"},\\\"heightSize\\\":1000,\\\"major\\\":true,\\\"type\\\":0,\\\"url\\\":\\\"http://img.alicdn.com/bao/uploaded/i4/2214811203163/O1CN01WN5Uhf1ZEht6zz8yh_!!4611686018427385435-0-xy_item.jpg\\\",\\\"videoCover\\\":false,\\\"widthSize\\\":1000},{\\\"heightSize\\\":1041,\\\"major\\\":false,\\\"type\\\":0,\\\"url\\\":\\\"http://img.alicdn.com/bao/uploaded/i2/O1CN01LyneDs1ZEhnX3dnVr_!!4611686018427385435-2-fleamarket.png\\\",\\\"videoCover\\\":false,\\\"widthSize\\\":1327},{\\\"heightSize\\\":1094,\\\"major\\\":false,\\\"type\\\":0,\\\"url\\\":\\\"http://img.alicdn.com/bao/uploaded/i1/O1CN01K6jKBa1ZEhnXw7Y3D_!!4611686018427385435-2-fleamarket.png\\\",\\\"videoCover\\\":false,\\\"widthSize\\\":960}]\",\"postInfo\":\"包邮\",\"soldPrice\":\"2\",\"isSkillProductItem\":\"true\",\"title\":\"国内出行意外险全覆盖\",\"isSKU\":\"1\",\"isSelf\":\"true\"}",
+      "supportPCTrade": true
+    },
+    "kunEmbedUrl": "https://h5.m.goofish.com/wow/moyu/moyu-project/idle-at/pages/message-head-c2c?kun=true&wh_ttid=native",
+    "left": {
+      "data": {
+        "jumpUrl": "fleamarket://item?id=899790491470&fmdirect=true",
+        "picUrl": "http://img.alicdn.com/bao/uploaded/i4/2214811203163/O1CN01WN5Uhf1ZEht6zz8yh_!!4611686018427385435-0-xy_item.jpg"
+      },
+      "render": "common"
+    },
+    "middle": {
+      "data": {
+        "itemStatus": 0,
+        "itemStatusDesc": "在线",
+        "serviceTagList": [
+          {
+            "name": "24小时发货",
+            "type": "service"
+          },
+          {
+            "name": "描述不符全额退",
+            "type": "service"
+          }
+        ],
+        "subTitle": "含运费0.00元",
+        "tagList": [],
+        "tips": "广东·深圳",
+        "title": "¥2.00~160.00"
+      },
+      "render": "common"
+    },
+    "serverTime": "2026-11-06 00:29:42",
+    "template": "common"
+  }
+}
