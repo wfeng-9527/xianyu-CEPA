@@ -1,0 +1,15 @@
+{
+  "name": "xianyu-auto",
+  "version": "0.1.0",
+  "private": true,
+  "type": "commonjs",
+  "description": "闲鱼自动化系统骨架（逆向自闲管家 goofish-im v1.21.90，零外部依赖，Node>=22）",
+  "main": "src/index.js",
+  "scripts": {
+    "sync": "node src/index.js sync",
+    "daemon": "node src/index.js daemon",
+    "dump": "node src/index.js dump",
+    "send": "node src/index.js send"
+  },
+  "engines": { "node": ">=22" }
+}

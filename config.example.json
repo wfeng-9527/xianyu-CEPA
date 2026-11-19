@@ -1,0 +1,13 @@
+{
+  "accountId": "",
+  "sellerId": "",
+  "wsType": 2,
+  "wsEnv": "LiveEnv",
+  "pollInterval": 30,
+  "sessionTypes": [1],
+  "fetchNum": 30,
+  "msgPageSize": 20,
+  "dryRun": true,
+  "accessToken": "",
+  "udid": ""
+}

@@ -1,0 +1,42 @@
+# Runtime data and credentials
+/data/
+/config.json
+/goofish-cookie*
+.env
+.env.*
+!.env.example
+*.cookie
+*.cookie.*
+*.db
+*.db-*
+*.sqlite*
+*.log
+*.pid
+*.pem
+*.key
+
+# Local investigations, real customer cases, and operational notes
+/_*
+/docs/
+/README.md
+/send_impaas.js
+/scripts/*
+!/scripts/guard.cjs
+!/scripts/watch.cjs
+!/scripts/refresh_cookie.js
+!/scripts/pdf_ocr.ps1
+!/scripts/add_account.js
+!/scripts/ocr_caps.ps1
+/rules/*
+!/rules/preset-ptravel.json
+/web/scripts/
+
+# Build outputs and local tools
+node_modules/
+dist/
+.tanstack/
+coverage/
+*.tsbuildinfo
+*.local
+.idea/
+.vscode/
