@@ -25,6 +25,7 @@
 !/scripts/ocr_caps.ps1
 /rules/*
 !/rules/preset-ptravel.json
+!/rules/rules.json
 /web/scripts/
 
 # Build outputs and local tools

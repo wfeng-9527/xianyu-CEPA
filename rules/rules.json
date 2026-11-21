@@ -1,0 +1,136 @@
+{
+  "cooldown": 45,
+  "maxPerSession": 12,
+  "minLength": 1,
+  "rules": [
+    {
+      "id": "silence-ack",
+      "name": "客套话不回",
+      "priority": 200,
+      "match": {
+        "regex": "^(好的?|好滴|收到|嗯+|哦+|谢谢|谢谢你|多谢|ok|OK|1|在的|行|可以|了解|明白)[。!,，~～]*$"
+      },
+      "handoff": false,
+      "ai": false,
+      "reply": "",
+      "silent": true
+    },
+    {
+      "id": "hello",
+      "name": "打招呼",
+      "priority": 190,
+      "match": {
+        "regex": "^(在吗|在么|你好|您好|哈喽|hi|hello|老板|亲)"
+      },
+      "reply": "在的～"
+    },
+    {
+      "id": "handoff-money",
+      "name": "退款/投诉/赔付",
+      "priority": 180,
+      "match": {
+        "regex": "退款|退钱|退保|投诉|赔付|赔钱|仲裁|工商|报警|差评|举报"
+      },
+      "handoff": true
+    },
+    {
+      "id": "ask-info",
+      "name": "要投保资料",
+      "priority": 170,
+      "match": {
+        "regex": "怎么买|怎么弄|需要什么|要什么资料|怎么给|发什么|怎么填"
+      },
+      "reply": "把 姓名+身份证号+生效日期+邮箱 发这里就行，多人的一行一个哈"
+    },
+    {
+      "id": "price",
+      "name": "问价",
+      "priority": 160,
+      "match": {
+        "regex": "多少钱|价格|几块|怎么卖|收费|报价"
+      },
+      "reply": "按天算的，您说下多少人、从哪天开始保几天，我给您算个总价哈"
+    },
+    {
+      "id": "discount",
+      "name": "讲价",
+      "priority": 155,
+      "match": {
+        "regex": "便宜|优惠|少点|能刀|砍价|包邮|免运费"
+      },
+      "reply": "价格是实价噢，人多天数多我给您算个整的"
+    },
+    {
+      "id": "lead-time",
+      "name": "多久出单",
+      "priority": 150,
+      "match": {
+        "regex": "多久|几天|什么时候出|多久出|多久能|马上|当天|生效时间"
+      },
+      "reply": "资料齐了当天出，保单直接发您邮箱，一般两小时内到"
+    },
+    {
+      "id": "company",
+      "name": "哪家公司",
+      "priority": 145,
+      "match": {
+        "regex": "哪家|什么公司|保险公司|正规吗|靠谱吗|真的假的|真假|平安|人保|太平洋|大地|安联|泰康|众安"
+      },
+      "reply": "平安、人保、太平洋都做，具体看您拍的哪个产品，保单上写得清清楚楚"
+    },
+    {
+      "id": "invoice",
+      "name": "要发票",
+      "priority": 140,
+      "match": {
+        "regex": "发票|开票|抬头|税号"
+      },
+      "reply": "可以开的，把抬头和税号发我一下哈"
+    },
+    {
+      "id": "change-date",
+      "name": "改日期",
+      "priority": 135,
+      "match": {
+        "regex": "改日期|改时间|换一天|改期|日期改|延后|提前"
+      },
+      "reply": "生效前能改，把新的日期发我就行"
+    },
+    {
+      "id": "team",
+      "name": "多人/团队",
+      "priority": 130,
+      "match": {
+        "regex": "多人|团队|团建|几个人|一批|学校|公司活动|十几|几十"
+      },
+      "reply": "多少人、几天？我按人头给您算，名单一次性发我就行"
+    },
+    {
+      "id": "progress",
+      "name": "催进度",
+      "priority": 125,
+      "match": {
+        "regex": "好了吗|出了吗|发了吗|有了吗|还没|怎么样了|催一下"
+      },
+      "reply": "稍等，我催一下，出好马上发您邮箱"
+    },
+    {
+      "id": "coverage-ai",
+      "name": "保障范围（查条款）",
+      "priority": 120,
+      "match": {
+        "regex": "能报|报销|保什么|保不保|包含|范围|住院|门诊|医疗|意外|生效|保障|免赔|额度|几万"
+      },
+      "ai": true
+    },
+    {
+      "id": "ai-fallback",
+      "name": "兜底交 AI",
+      "priority": 10,
+      "match": {
+        "any": true
+      },
+      "ai": true
+    }
+  ]
+}
